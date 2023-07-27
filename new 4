@@ -1,0 +1,24 @@
+<div>
+								<h4>Enquiry Now</h4>
+								<label>Full Name</label>
+									<input type="name" text="txtusername" placeholder="Your Name" class="form-detail">
+								<div class="row">
+									<div class="col-md-4">
+										<label>Contact Number</label>
+											<input type="number" text="number" placeholder="Your Number" class="form-detail">
+									</div>
+									<div class="col-md-4">
+										<label>Email</label>
+											<input type="email" text="email" placeholder="Your email" class="form-detail">
+									</div>
+								
+								</div>	
+								<label>Subject </label>
+									<input type="name" text="txt" placeholder="Your text here" class="form-detail">
+								<label>Reason to Join </label>
+									<input type="name" text="txt" placeholder="Your text here" class="form-detail">	
+								
+								<div>
+									<a>Submit</a>
+								</div>
+							</div>
